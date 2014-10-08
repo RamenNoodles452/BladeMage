@@ -1,0 +1,31 @@
+<PlayerCharacters>
+	<Character>
+		<Title>BladeMage</Title>
+		<Name>Mei-Yun Fei</Name>
+		<MoveSpeed>30</MoveSpeed>
+		<JumpSpeed>90</JumpSpeed>
+		<CombatPaths>
+			<Path>
+				<Name>Grand Duelist</Name>
+				<Nodes>
+					<Node>
+						<ID>GD_a</ID>
+						<Damage>5</Damage>
+						<Duration>1.1</Duration>
+						<Movements>
+							<Move>
+								<Speed>1.0</Speed>
+								<Duration>0.1</Duration>
+							</Move>
+							<Move>
+								<Speed>0.2</Speed>
+								<Duration>0.2</Duration>
+							</Move>
+						</Movements>
+					</Node>
+				</Nodes>
+			</Path>
+		</CombatPaths>
+		
+	</Character>
+</PlayerCharacters>
